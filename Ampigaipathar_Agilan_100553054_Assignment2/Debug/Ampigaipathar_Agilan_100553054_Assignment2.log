@@ -1,0 +1,21 @@
+﻿Build started 01/04/2015 2:17:35 AM.
+     1>Project "C:\Users\100553054\Documents\UOIT - First Year\Computer Science\Ampigaipathar_Agilan_100553054_Assignment2\Ampigaipathar_Agilan_100553054_Assignment2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Ampigaipathar_Agilan_100553054_Assignment2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Ampigaipathar_Agilan_100553054_Assignment2.cpp
+         Ampigaipathar_Agilan_100553054_Assignment2.cpp
+     1>c:\users\100553054\documents\uoit - first year\computer science\ampigaipathar_agilan_100553054_assignment2\ampigaipathar_agilan_100553054_assignment2.cpp(56): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\100553054\documents\uoit - first year\computer science\ampigaipathar_agilan_100553054_assignment2\ampigaipathar_agilan_100553054_assignment2.cpp(142): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\100553054\documents\uoit - first year\computer science\ampigaipathar_agilan_100553054_assignment2\ampigaipathar_agilan_100553054_assignment2.cpp(156): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\100553054\documents\uoit - first year\computer science\ampigaipathar_agilan_100553054_assignment2\ampigaipathar_agilan_100553054_assignment2.cpp(226): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\100553054\documents\uoit - first year\computer science\ampigaipathar_agilan_100553054_assignment2\ampigaipathar_agilan_100553054_assignment2.cpp(233): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100553054\documents\uoit - first year\computer science\ampigaipathar_agilan_100553054_assignment2\ampigaipathar_agilan_100553054_assignment2.cpp(256): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100553054\documents\uoit - first year\computer science\ampigaipathar_agilan_100553054_assignment2\ampigaipathar_agilan_100553054_assignment2.cpp(401): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100553054\Documents\UOIT - First Year\Computer Science\Ampigaipathar_Agilan_100553054_Assignment2\Debug\Ampigaipathar_Agilan_100553054_Assignment2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\100553054\Documents\UOIT - First Year\Computer Science\Ampigaipathar_Agilan_100553054_Assignment2\Debug\Ampigaipathar_Agilan_100553054_Assignment2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\100553054\Documents\UOIT - First Year\Computer Science\Ampigaipathar_Agilan_100553054_Assignment2\Debug\Ampigaipathar_Agilan_100553054_Assignment2.lib" /MACHINE:X86 Debug\Ampigaipathar_Agilan_100553054_Assignment2.obj
+         Debug\stdafx.obj
+         Ampigaipathar_Agilan_100553054_Assignment2.vcxproj -> C:\Users\100553054\Documents\UOIT - First Year\Computer Science\Ampigaipathar_Agilan_100553054_Assignment2\Debug\Ampigaipathar_Agilan_100553054_Assignment2.exe
+     1>Done Building Project "C:\Users\100553054\Documents\UOIT - First Year\Computer Science\Ampigaipathar_Agilan_100553054_Assignment2\Ampigaipathar_Agilan_100553054_Assignment2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.45
